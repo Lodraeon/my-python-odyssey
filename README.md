@@ -6,11 +6,10 @@ Este espaço serve como um "diário de bordo" onde eu documento meu progresso, a
 
 ## Projetos
 
-Aqui está uma lista dos projetos que desenvolvi até agora. Cada um possui seu próprio `README.md` com detalhes sobre a implementação e os aprendizados.
+Aqui está uma lista dos projetos que desenvolvi até agora. Clique em qualquer um para ver os detalhes, o código e os aprendizados específicos.
 
-- **[Calculadora Básica](./calculadora/)**: Uma calculadora de linha de comando que realiza as 4 operações básicas, com validação de entrada e tratamento de erros.
-- **[Contador de Letras](./contador_letras/)**: Um script que analisa uma string e encontra a letra que aparece com mais frequência.
+-   **[Calculadora Simples](./projetos-simples/calculadora-simples/)**: Uma calculadora de linha de comando que realiza as 4 operações básicas, com validação de entrada e tratamento de erros.
+-   **[Contador de Letras](./projetos-simples/contador-de-letras/)**: Um script que analisa uma string e encontra a letra que aparece com mais frequência.
 
-Sinta-se à vontade para explorar e ver minha evolução!
 
-## Audentes Fortuna Iuvat!
+  ## Audentes Fortuna Iuvat!
