@@ -1,4 +1,4 @@
-# My Python Odyssey 
+# My Python Odyssey
 
 Bem-vindo ao repositório da minha jornada de aprendizado em Python!
 
@@ -10,6 +10,7 @@ Aqui está uma lista dos projetos que desenvolvi até agora. Clique em qualquer 
 
 -   **[Calculadora Simples](./projetos-simples/calculadora-simples/)**: Uma calculadora de linha de comando que realiza as 4 operações básicas, com validação de entrada e tratamento de erros.
 -   **[Contador de Letras](./projetos-simples/contador-de-letras/)**: Um script que analisa uma string e encontra a letra que aparece com mais frequência.
+-   **[Jogo de Adivinhar a Palavra](./projetos-simples/jogo-adivinha-palavras/)**: Um jogo de forca interativo com validação de entrada, sistema de tentativas e lógica de pontuação perfeita baseada em letras únicas.
+-   **[Gerenciador de Lista (CRUD)](./projetos-simples/gerenciador-de-lista/)**: Uma aplicação de terminal para gerenciar uma lista (adicionar, listar, apagar), com tratamento de erros específico e profissional para `ValueError` e `IndexError`.
 
-
-  ## Audentes Fortuna Iuvat!
+## Audentes Fortuna Iuvat!
