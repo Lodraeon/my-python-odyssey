@@ -1,4 +1,4 @@
-# My Python Odyssey
+# My Python Odyssey 
 
 Bem-vindo ao repositório da minha jornada de aprendizado em Python!
 
@@ -12,6 +12,7 @@ Aqui está uma lista dos projetos que desenvolvi até agora. Clique em qualquer 
 -   **[Contador de Letras](./projetos-simples/contador-de-letras/)**: Um script que analisa uma string e encontra a letra que aparece com mais frequência.
 -   **[Jogo de Adivinhar a Palavra](./projetos-simples/jogo-de-adivinhacao/)**: Um jogo de forca interativo com validação de entrada, sistema de tentativas e lógica de pontuação perfeita.
 -   **[Gerenciador de Lista (CRUD)](./projetos-simples/gerenciador-de-lista/)**: Uma aplicação de terminal para gerenciar uma lista (adicionar, listar, apagar), com tratamento de erros específico e profissional.
--   **[Validador de CPF](./projetos-simples/validador-cpf/)**: Uma aplicação de terminal que implementa o algoritmo oficial para validar CPFs, incluindo a checagem completa dos dois dígitos verificadores.
+-   **[Validador de CPF](./projetos-simples/validador-cpf/)**: Uma aplicação que implementa o algoritmo oficial para validar CPFs, incluindo a checagem completa dos dois dígitos verificadores.
+-   **[Gerenciador de Notas de Alunos](./projetos-simples/gerenciador-de-notas/)**: Uma aplicação de console robusta para gerenciar notas (adicionar, remover, listar, calcular média), construída com design de funções puras e tratamento de exceções específico.
 
 ## Audentes Fortuna Iuvat!
